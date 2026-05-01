@@ -1,0 +1,60 @@
+{
+  "stories": [
+    {
+      "id": "s1",
+      "title": "The Whispering Walls of Blackmere",
+      "location": "Blackmere Asylum, Scotland",
+      "author": "Ghost_Stalker",
+      "date": "2024-10-31",
+      "category": "Asylum",
+      "rating": 4.8,
+      "reads": 1247,
+      "excerpt": "No one believed me when I said the walls spoke. That was before we went inside.",
+      "content": "The asylum had been abandoned since 1987. Three of us entered through the east wing at midnight — flashlights low, voices lower. The temperature dropped before we even reached the first corridor. Sarah grabbed my arm. She heard it first: a low, rhythmic tapping behind the plaster. We pressed our ears to the wall. It wasn't random. It was Morse code. Someone — or something — had been tapping the same message for thirty seven years: 'Still here. Still here. Still here.' We left running and never went back. The recording on my phone still plays at 3am on its own.",
+      "tags": ["asylum", "Scotland", "voices", "morse"],
+      "verified": true
+    },
+    {
+      "id": "s2",
+      "title": "Red Light in the Cornfield",
+      "location": "Route 9, Nebraska",
+      "author": "NightDrifter",
+      "date": "2024-09-15",
+      "category": "UFO",
+      "rating": 4.5,
+      "reads": 892,
+      "excerpt": "My dashboard clock froze at 2:11 AM. Then the field started glowing.",
+      "content": "I was driving back from my cousin's place when the radio cut to static. Out of nowhere, a pulsing red light rose from the cornfield about two hundred meters off the road. My engine stuttered but didn't die. I pulled over — don't ask me why. The light moved in perfect geometric patterns: triangle, pentagon, triangle. No sound. No wind. Just this cold red pulse that lit the corn stalks from below. Then it was gone. Blinked out. My clock showed 3:44am. I had lost ninety three minutes. My camera roll had forty photos I didn't take — all black, except one with a blurry shape I can't explain.",
+      "tags": ["UFO", "Nebraska", "missing time", "lights"],
+      "verified": false
+    },
+    {
+      "id": "s3",
+      "title": "The Lighthouse Keeper Who Never Left",
+      "location": "Cape Murrow, Maine",
+      "author": "SaltWitchMaren",
+      "date": "2024-08-02",
+      "category": "Ghost",
+      "rating": 4.9,
+      "reads": 2103,
+      "excerpt": "The lighthouse has been automated since 1952. Someone still climbs the stairs.",
+      "content": "Local fishermen have reported it for decades — a silhouette in the lantern room, even when the building is locked and empty. I spent three nights inside with a thermal camera. The first two nights: nothing. Third night, 4am, the stairs creaked in sequence — bottom to top — with the heavy deliberate cadence of a large man. My thermal showed a cold spot, not warm, moving upward. Cold. As if something was absorbing heat rather than radiating it. At the top, the lens began rotating. It hasn't been connected to power since 1952. I have the footage. I've shown it to engineers. None of them have an answer.",
+      "tags": ["ghost", "Maine", "lighthouse", "thermal"],
+      "verified": true
+    },
+    {
+      "id": "s4",
+      "title": "Tunnel 7: Do Not Enter After Dark",
+      "location": "Blue Ridge Parkway, Virginia",
+      "author": "HollowEchoes",
+      "date": "2024-11-01",
+      "category": "Cryptid",
+      "rating": 4.2,
+      "reads": 673,
+      "excerpt": "The sign is unofficial. Locals put it there after the third disappearance.",
+      "content": "The park service will tell you Tunnel 7 is structurally sound and perfectly safe. Ask the locals and they'll go quiet. Two hikers went missing in 2019. One came back — three weeks later — with no memory, no shoes, and mud in his lungs despite no rain. He kept drawing the same figure in the margins of every piece of paper he could find: tall, angular, no face. I went at dusk. Made it fifty feet inside before my headlamp died and I heard breathing that wasn't mine. Multiple sources. Surrounding me. I walked out slowly, backward, and didn't run until I hit daylight.",
+      "tags": ["cryptid", "Virginia", "tunnel", "missing"],
+      "verified": false
+    }
+  ]
+}

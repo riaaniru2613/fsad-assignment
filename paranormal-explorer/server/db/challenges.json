@@ -1,0 +1,70 @@
+{
+  "challenges": [
+    {
+      "id": "c1",
+      "title": "Midnight Vigil",
+      "description": "Stay in a reportedly haunted location for at least 2 hours after midnight and document any unexplained phenomena.",
+      "points": 500,
+      "difficulty": "Hard",
+      "category": "Field",
+      "badge": "🕯️",
+      "requirements": ["Photo evidence", "Audio recording", "Written log"],
+      "completions": 47
+    },
+    {
+      "id": "c2",
+      "title": "Spirit Board Session",
+      "description": "Conduct a documented ouija session with at least 3 participants and record the session in full.",
+      "points": 200,
+      "difficulty": "Medium",
+      "category": "Ritual",
+      "badge": "🔮",
+      "requirements": ["Video recording", "Witness signatures"],
+      "completions": 134
+    },
+    {
+      "id": "c3",
+      "title": "EVP Hunter",
+      "description": "Capture at least one unexplained voice or sound on audio recording equipment in a haunted location.",
+      "points": 350,
+      "difficulty": "Hard",
+      "category": "Technical",
+      "badge": "🎙️",
+      "requirements": ["Raw audio file", "Enhanced audio file", "Location details"],
+      "completions": 89
+    },
+    {
+      "id": "c4",
+      "title": "Graveyard Shift",
+      "description": "Document and photograph at least 10 graves older than 150 years in a single cemetery visit.",
+      "points": 150,
+      "difficulty": "Easy",
+      "category": "Field",
+      "badge": "⚰️",
+      "requirements": ["10+ photos with dates visible", "Cemetery name and location"],
+      "completions": 312
+    },
+    {
+      "id": "c5",
+      "title": "The Long Dark",
+      "description": "Spend a full night (8+ hours) alone in a reportedly haunted building without leaving.",
+      "points": 1000,
+      "difficulty": "Extreme",
+      "category": "Endurance",
+      "badge": "👁️",
+      "requirements": ["Continuous video evidence", "Timestamped logs every hour", "Two external witnesses"],
+      "completions": 12
+    },
+    {
+      "id": "c6",
+      "title": "Paranormal Investigator",
+      "description": "Complete a full paranormal investigation report: history research, site visit, evidence analysis.",
+      "points": 750,
+      "difficulty": "Hard",
+      "category": "Research",
+      "badge": "📋",
+      "requirements": ["Historical research document", "Site visit evidence", "Final report"],
+      "completions": 28
+    }
+  ]
+}

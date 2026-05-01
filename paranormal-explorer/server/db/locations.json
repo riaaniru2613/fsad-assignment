@@ -1,0 +1,100 @@
+{
+  "locations": [
+    {
+      "id": "l1",
+      "name": "Eastern State Penitentiary",
+      "lat": 39.9684,
+      "lng": -75.1721,
+      "city": "Philadelphia, PA",
+      "type": "Prison",
+      "dangerLevel": 4,
+      "description": "One of America's most historic and feared prisons. Solitary confinement cells echo with whispers.",
+      "reports": 234,
+      "verified": true
+    },
+    {
+      "id": "l2",
+      "name": "The Winchester Mystery House",
+      "lat": 37.3183,
+      "lng": -121.9511,
+      "city": "San Jose, CA",
+      "type": "Mansion",
+      "dangerLevel": 3,
+      "description": "Built continuously for 38 years to confuse spirits. Doors to nowhere. Stairs to ceilings.",
+      "reports": 189,
+      "verified": true
+    },
+    {
+      "id": "l3",
+      "name": "Gettysburg Battlefield",
+      "lat": 39.8118,
+      "lng": -77.2252,
+      "city": "Gettysburg, PA",
+      "type": "Battlefield",
+      "dangerLevel": 2,
+      "description": "51,000 casualties in three days. The dead have never stopped marching.",
+      "reports": 412,
+      "verified": true
+    },
+    {
+      "id": "l4",
+      "name": "Trans-Allegheny Lunatic Asylum",
+      "lat": 39.0994,
+      "lng": -80.5473,
+      "city": "Weston, WV",
+      "type": "Asylum",
+      "dangerLevel": 5,
+      "description": "Housed 2,400 patients in a space built for 250. The suffering soaked into the walls.",
+      "reports": 567,
+      "verified": true
+    },
+    {
+      "id": "l5",
+      "name": "Stanley Hotel",
+      "lat": 40.3773,
+      "lng": -105.5217,
+      "city": "Estes Park, CO",
+      "type": "Hotel",
+      "dangerLevel": 3,
+      "description": "Inspiration for The Shining. Room 217 never stays empty for long.",
+      "reports": 321,
+      "verified": true
+    },
+    {
+      "id": "l6",
+      "name": "Waverly Hills Sanatorium",
+      "lat": 38.1398,
+      "lng": -85.8886,
+      "city": "Louisville, KY",
+      "type": "Sanatorium",
+      "dangerLevel": 5,
+      "description": "63,000 deaths from tuberculosis. The body chute still carries echoes.",
+      "reports": 689,
+      "verified": true
+    },
+    {
+      "id": "l7",
+      "name": "Bachelor's Grove Cemetery",
+      "lat": 41.7147,
+      "lng": -87.8656,
+      "city": "Midlothian, IL",
+      "type": "Cemetery",
+      "dangerLevel": 4,
+      "description": "Abandoned cemetery with over 100 documented paranormal incidents since 1960.",
+      "reports": 445,
+      "verified": true
+    },
+    {
+      "id": "l8",
+      "name": "Poveglia Island",
+      "lat": 45.4064,
+      "lng": 12.3278,
+      "city": "Venice, Italy",
+      "type": "Island",
+      "dangerLevel": 5,
+      "description": "160,000 plague victims buried here. The soil is half human ash. Access is forbidden.",
+      "reports": 112,
+      "verified": true
+    }
+  ]
+}
